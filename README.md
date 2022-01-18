@@ -1,1 +1,1 @@
-<img src='githubProfile.gif' />
+<img src='readme.jpg' />
